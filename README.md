@@ -1,2 +1,2 @@
 # learning-dsa
-[day1](https://github.com/lemejobless/learning-dsa/blob/main/day1.md)
+[day1](lessons/day1.md)
