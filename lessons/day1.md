@@ -14,6 +14,8 @@ Understanding the efficiency of algorithms is crucial for making informed choice
 
 Big O notation aids in understanding how an algorithm's performance scales concerning the input size. It represents the upper limit of an algorithm's time complexity about the input size.
 
+![diagram1.1.png](https://media.discordapp.net/attachments/1160260919885054034/1169392353811890328/diagram1.1_1.png)
+
 ### Constant Complexity - O(1)
 
 The constant complexity denoted as O(1), implies that an algorithm takes a fixed number of steps regardless of the input size. For example:
@@ -89,4 +91,3 @@ The `binary_search` function demonstrates logarithmic time complexity (O(log n))
 
 Big O notation is a standardized means of comparing algorithms and understanding their efficiency. A clear understanding of different complexities assists in making informed decisions while designing algorithms for real-world applications.
 
-![diagram1.1.png](https://media.discordapp.net/attachments/1160260919885054034/1169392353811890328/diagram1.1_1.png)
