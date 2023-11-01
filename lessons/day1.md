@@ -89,4 +89,4 @@ The `binary_search` function demonstrates logarithmic time complexity (O(log n))
 
 Big O notation is a standardized means of comparing algorithms and understanding their efficiency. A clear understanding of different complexities assists in making informed decisions while designing algorithms for real-world applications.
 
-![Diagram](learning-dsa/Diagrams/diagram1.1.png)
+![Diagram]([learning-dsa/Diagrams/diagram1.1.png](https://discord.com/channels/916532790386884690/1160260919885054034/1169387457884721326)https://discord.com/channels/916532790386884690/1160260919885054034/1169387457884721326)
