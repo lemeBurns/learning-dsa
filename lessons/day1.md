@@ -1,4 +1,4 @@
-# Big O Notation and Algorithm Analysis with Python Examples
+# Big O with Python Examples
 
 ## Introduction
 
